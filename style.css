@@ -464,3 +464,5 @@ p[two] {
         align-items: flex-start;
     }
 }
+
+a[href^=tel]{ color:#000; text-decoration:none;}
