@@ -385,6 +385,10 @@ p[two] {
     padding: 10px;
 }
 
+.footer p {
+    text-decoration: none;
+}
+
 @media only screen and (min-height: 801px) {
     .content p, .footer p {
         font-size: 12px;
